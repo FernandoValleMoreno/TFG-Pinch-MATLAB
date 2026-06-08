@@ -7,9 +7,13 @@ Este repositorio contiene el código en MATLAB desarrollado para automatización
 📁 Estructura del Proyecto
 
 --> `main.m`: 		Script principal o ejecutable. Se encarga de la interacción con el usuario, lectura de datos desde Excel y exportación de resultados.
---> `thermocascade.m`: 	Motor termodinámico. Ejecuta el balance en cascada, calcula las temperaturas Pinch y genera la Curva Gran Compuesta y el Diagrama Temperatura-Entalpía (Figuras 1 y 2).
---> `networkdesign.m`: 	Función de validación de datos, estructuración y generación de los diagramas de malla de la red (Figuras 3 y 4).
+
+--> `thermocascade.m`: 	Motor termodinámico. Ejecuta el balance en cascada, calcula las temperaturas Pinch y genera la Gran Curva Compuesta y el Diagrama Temperatura-Entalpía (Figuras 1 y 2).
+
+--> `networkdesign.m`: 	Función de validación de datos, estructuración y generación del Diagrama de Malla de la red (Figura 3).
+
 --> `datos/`: 		Carpeta destinada a almacenar los archivos de Excel con las corrientes de entrada.
+
 --> `resultados/`: 	Carpeta donde se exportarán automáticamente las tablas de resultados.
 
 🚀 Instrucciones de Uso
