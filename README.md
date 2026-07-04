@@ -24,9 +24,11 @@ Este repositorio contiene el código en MATLAB desarrollado para automatización
 4. El programa validará la información, realizará los cálculos y generará automáticamente 3 figuras clave del diseño de la red térmica.
 
 ⚙️ Requisitos
+
 MATLAB (Compatible con versiones recientes. Se incluye manejo de excepciones para versiones antiguas en la lectura de tablas).
 
 ✒️ Créditos y Autoría
+
 El núcleo lógico y de cálculo de este proyecto está basado en la obra original de D. Aslanis* El código presente en este repositorio ha sido adaptado y ampliado por Fernando Valle Moreno para satisfacer las necesidades de diseño gráfico (escalas, formato técnico de diagramas y resolución de solapamientos) exigidas en el marco del Trabajo de Fin de Grado.
 
 
